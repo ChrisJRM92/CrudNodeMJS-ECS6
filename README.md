@@ -1,2 +1,2 @@
-# CrudNodeMJSESC6
-Crud users with ESC6 in format .mjs javascrip and PostgreSQL
+# CrudNodeMJS-ECS6
+Crud users with ECS6 in format .mjs javascrip and PostgreSQL
