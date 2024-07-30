@@ -5,4 +5,4 @@ const catchError = controller => {
     }
 }
 
-module.exports = catchError
+export default catchError;
